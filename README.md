@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @BringMeSomeSalt
-- 👀 I’m interested in anime.
-- 🌱 I’m currently learning how to sleep efficiently
-- 💞️ I’m looking to collaborate with everyone who want me to.
-- 📫 How to reach me...
+welp
